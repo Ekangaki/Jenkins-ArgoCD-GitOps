@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## GitOps with Jenkins and ArgoCD
 
 YouTube Video Link: https://youtu.be/xbxJpZcFT78
@@ -54,3 +55,7 @@ ArgoCD installed and configured in the Minikube cluster.
 
 
 
+=======
+# Jenkins-ArgoCD-GitOps
+Jenkins-ArgoCD-GitOps
+>>>>>>> 39d6c81b004f5c606d4a43090c76acc88b170eaa
