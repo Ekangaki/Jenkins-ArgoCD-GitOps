@@ -4,8 +4,8 @@ pipeline {
 		nodejs 'NodeJS'
 	}
 	environment {
-		DOCKER_HUB_REPO = 'iquantc/iquant-app'
-		DOCKER_HUB_CREDENTIALS_ID = 'gitops-dockerhub'
+		DOCKER_HUB_REPO = 'ekangaki/nguti-app'
+		DOCKER_HUB_CREDENTIALS_ID = 'dockerhub-credential'
 	}
 	stages {
 		stage('Checkout Github'){
